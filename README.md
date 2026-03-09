@@ -6,8 +6,7 @@ Data analyst who loves working with people and numbers.
 <img src="https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="Power BI"> 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"> 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> 
-<img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Bedrock">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 
 ---
 
